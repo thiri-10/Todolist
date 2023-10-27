@@ -34,7 +34,7 @@
     </a>
     <a href="{{ route('task.calendar') }}" class="list-group-item border-0 list-group-item-action ">
         <i class="bi bi-calendar3 "></i>
-        <span class=" d-md-inline d-sm-block">Calander</span>
+        <span class=" d-md-inline d-sm-block">Calendar</span>
     </a>
     <a href="{{ route('Note.create') }}" class="list-group-item border-0 list-group-item-action">
         <i class="bi bi-sticky-fill "></i>

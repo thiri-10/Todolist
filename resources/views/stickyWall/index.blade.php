@@ -21,7 +21,7 @@
                         Add New Note
                         <button id="add-note" data-bs-toggle="modal" data-bs-target="#note" class="btn  mt-3 rounded"
                             style="background-color: antiquewhite">
-                            <i class="bi bi-plus"></i>
+                            <i class="bi bi-plus text-dark"></i>
                         </button>
 
                     </div>

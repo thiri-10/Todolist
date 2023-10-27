@@ -38,7 +38,7 @@
                     @enderror
 
 
-                    <select class="form-select mb-3  @error('category') is-invalid @enderror" name="category" id=""
+                    <select aria-expanded="true" class="form-select mb-3  @error('category') is-invalid @enderror" name="category" id=""
                         value="{{ old('category') }}">
                         @foreach (App\Models\Category::all() as $category)
                             <option value="{{ $category->id }}">{{ $category->category }}</option>

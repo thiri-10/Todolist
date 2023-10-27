@@ -164,7 +164,6 @@
                                     <li>
                                         <button type="button" class="dropdown-item d-flex align-items-center active"
                                             data-bs-theme-value="light" aria-pressed="false">
-                                            {{-- <svg class="bi me-2 opacity-50 theme-icon"><use href="#sun-fill"></use></svg> --}}
                                             <div class="bi me-2 opacity-50 theme-icon"></div>
                                             Light
                                             <svg class="bi ms-auto d-none">
